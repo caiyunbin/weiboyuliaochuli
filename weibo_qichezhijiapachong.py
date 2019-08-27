@@ -13,7 +13,7 @@ from pyquery import PyQuery as pq
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.action_chains import ActionChains
 USERNAME = 'yuedaqiya2008'
-PASSWORD = '123.sljm'
+PASSWORD = '********'
 browser = webdriver.Chrome()
 
 
